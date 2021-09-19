@@ -19,3 +19,7 @@
 + **git merge**: mezcla dos ramas
 + **git rebase**: trae los cambios de otra rama a la nuestra 
 + **git cherry-pick**: trae un commit especificado de otra rama a la nuestra
+
+### Recursos
+
++ **Git-flow**: https://danielkummer.github.io/git-flow-cheatsheet/
